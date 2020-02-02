@@ -192,7 +192,7 @@
   )
 
   (module MODULE_compute:ADAFRUIT_FEATHER_HOLES (layer F.Cu) (tedit 5E3203AA) (tstamp 5E324BAC)
-    (at 110 133)
+    (at 110 135)
     (path /5E32076C)
     (fp_text reference CN1 (at 0 0.5) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1118,7 +1118,7 @@
   )
 
   (module IC_sensor:TCRT1000 (layer F.Cu) (tedit 5E36368E) (tstamp 5E364910)
-    (at 138 133 90)
+    (at 138 135 90)
     (descr "Reflective Optical Sensor with Transistor Output")
     (tags "Reflective Optical Sensor with Transistor Output")
     (path /5E36A24B)
@@ -1148,7 +1148,7 @@
   )
 
   (module IC_sensor:TCRT1000 (layer F.Cu) (tedit 5E36368E) (tstamp 5E36491C)
-    (at 82 133 270)
+    (at 82 135 270)
     (descr "Reflective Optical Sensor with Transistor Output")
     (tags "Reflective Optical Sensor with Transistor Output")
     (path /5E399FD4)
@@ -1309,9 +1309,9 @@
   (gr_line (start 80 120) (end 80 150) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 70 120) (end 80 120) (layer Edge.Cuts) (width 0.05))
 
-  (via (at 83 124) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0))
-  (via (at 83 142) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E320A31))
-  (via (at 137 142) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E320A33))
-  (via (at 137 124) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E320A35))
+  (via (at 83 126) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0))
+  (via (at 83 144) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E320A31))
+  (via (at 137 144) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E320A33))
+  (via (at 137 126) (size 5) (drill 3) (layers F.Cu B.Cu) (net 0) (tstamp 5E320A35))
 
 )
