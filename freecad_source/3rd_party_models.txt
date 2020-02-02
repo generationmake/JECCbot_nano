@@ -1,0 +1,6 @@
+sources of 3rd party moldels:
+
+gear motors: https://grabcad.com/library/pololu-micro-motor-bracket-1
+VL53L0X: https://grabcad.com/library/st-vl53l0x-1
+
+
